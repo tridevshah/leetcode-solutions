@@ -11,4 +11,16 @@ Collection of my leetcode solutions and DSA practice in java
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/tridevshah/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+## Array
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/tridevshah/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/tridevshah/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/tridevshah/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
