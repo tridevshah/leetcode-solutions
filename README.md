@@ -27,5 +27,6 @@ Collection of my leetcode solutions and DSA practice in java
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/tridevshah/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/tridevshah/leetcode-solutions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tridevshah/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
