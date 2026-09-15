@@ -2,4 +2,4 @@
 SELECT 
     tweet_id
 FROM Tweets
-WHERE Length(Content) > 15
+WHERE Length(content) > 15  AND  content REGEXP '^[A-Za-z0-9! ]+$'
