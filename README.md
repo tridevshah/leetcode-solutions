@@ -33,6 +33,7 @@ Collection of my leetcode solutions and DSA practice in java
 | [1148-article-views-i](https://github.com/tridevshah/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/tridevshah/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/tridevshah/leetcode-solutions/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/tridevshah/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tridevshah/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tridevshah/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/tridevshah/leetcode-solutions/tree/master/1683-invalid-tweets) |
