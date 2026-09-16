@@ -30,6 +30,7 @@ Collection of my leetcode solutions and DSA practice in java
 | [0595-big-countries](https://github.com/tridevshah/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/tridevshah/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/tridevshah/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/tridevshah/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tridevshah/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/tridevshah/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tridevshah/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
