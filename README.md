@@ -34,6 +34,7 @@ Collection of my leetcode solutions and DSA practice in java
 | [0185-department-top-three-salaries](https://github.com/tridevshah/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/tridevshah/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/tridevshah/leetcode-solutions/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/tridevshah/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/tridevshah/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/tridevshah/leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/tridevshah/leetcode-solutions/tree/master/0607-sales-person) |
