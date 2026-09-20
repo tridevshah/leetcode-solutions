@@ -46,6 +46,7 @@ Collection of my leetcode solutions and DSA practice in java
 | [0626-exchange-seats](https://github.com/tridevshah/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/tridevshah/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/tridevshah/leetcode-solutions/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/tridevshah/leetcode-solutions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/tridevshah/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/tridevshah/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1211-queries-quality-and-percentage](https://github.com/tridevshah/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
