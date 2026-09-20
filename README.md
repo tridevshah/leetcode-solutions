@@ -37,6 +37,7 @@ Collection of my leetcode solutions and DSA practice in java
 | [0550-game-play-analysis-iv](https://github.com/tridevshah/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/tridevshah/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/tridevshah/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/tridevshah/leetcode-solutions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/tridevshah/leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/tridevshah/leetcode-solutions/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/tridevshah/leetcode-solutions/tree/master/0608-tree-node) |
