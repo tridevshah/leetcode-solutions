@@ -71,4 +71,5 @@ Collection of my leetcode solutions and DSA practice in java
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tridevshah/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/tridevshah/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tridevshah/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/tridevshah/leetcode-solutions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
