@@ -75,4 +75,5 @@ Collection of my leetcode solutions and DSA practice in java
 | [1757-recyclable-and-low-fat-products](https://github.com/tridevshah/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/tridevshah/leetcode-solutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/tridevshah/leetcode-solutions/tree/master/1934-confirmation-rate) |
+| [3497-analyze-subscription-conversion](https://github.com/tridevshah/leetcode-solutions/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
