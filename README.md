@@ -73,4 +73,5 @@ Collection of my leetcode solutions and DSA practice in java
 | [1683-invalid-tweets](https://github.com/tridevshah/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tridevshah/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/tridevshah/leetcode-solutions/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/tridevshah/leetcode-solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
